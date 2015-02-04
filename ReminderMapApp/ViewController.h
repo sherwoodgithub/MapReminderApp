@@ -18,7 +18,6 @@
 
 @property CLLocationCoordinate2D locationToDisplay;
 @property MKCoordinateRegion viewRegion;
-@property (weak, nonatomic) IBOutlet MKMapView *mapView;
 @property (weak, nonatomic) IBOutlet UIButton *buttonOne;
 @property (weak, nonatomic) IBOutlet UIButton *buttonTwo;
 @property (weak, nonatomic) IBOutlet UIButton *buttonThree;

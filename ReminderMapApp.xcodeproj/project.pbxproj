@@ -14,6 +14,7 @@
 		B8B016061A81745400B10B5A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B8B016041A81745400B10B5A /* LaunchScreen.xib */; };
 		B8B016121A81745400B10B5A /* ReminderMapAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B8B016111A81745400B10B5A /* ReminderMapAppTests.m */; };
 		B8B0161C1A8174A900B10B5A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8B0161B1A8174A900B10B5A /* Main.storyboard */; };
+		B8B016201A8186A600B10B5A /* iceCubes.png in Resources */ = {isa = PBXBuildFile; fileRef = B8B0161F1A8186A600B10B5A /* iceCubes.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		B8B016101A81745400B10B5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B8B016111A81745400B10B5A /* ReminderMapAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReminderMapAppTests.m; sourceTree = "<group>"; };
 		B8B0161B1A8174A900B10B5A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		B8B0161F1A8186A600B10B5A /* iceCubes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iceCubes.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				B8B015FC1A81745400B10B5A /* ViewController.h */,
 				B8B015FD1A81745400B10B5A /* ViewController.m */,
 				B8B016021A81745400B10B5A /* Images.xcassets */,
+				B8B0161F1A8186A600B10B5A /* iceCubes.png */,
 				B8B0161B1A8174A900B10B5A /* Main.storyboard */,
 				B8B016041A81745400B10B5A /* LaunchScreen.xib */,
 				B8B015F51A81745400B10B5A /* Supporting Files */,
@@ -201,6 +204,7 @@
 			files = (
 				B8B0161C1A8174A900B10B5A /* Main.storyboard in Resources */,
 				B8B016061A81745400B10B5A /* LaunchScreen.xib in Resources */,
+				B8B016201A8186A600B10B5A /* iceCubes.png in Resources */,
 				B8B016031A81745400B10B5A /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
